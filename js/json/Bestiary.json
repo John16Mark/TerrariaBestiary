@@ -989,29 +989,29 @@
     {
         "Id": 70,
         "Entity": "Worm",
-        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9a/Worm_%28NPC%29.png",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/52/Worm.png",
         "Stars": 1,
         "Filters": [
             "Surface", "Rain"
         ],
         "Description": "A slick, tubular invertebrate found hiding in rocks, dirt, and grass. Loves the rain. Fish are especially attracted to these.",
         "Loot": [],
-        "ImgW": 10,
-        "ImgH": 6,
+        "ImgW": 14,
+        "ImgH": 18,
         "hardmode": false
     },
     {
         "Id": 71,
         "Entity": "Gold Worm",
-        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Gold_Worm_%28NPC%29.png",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Gold_Worm.png",
         "Stars": 5,
         "Filters": [
             "Surface", "Rain"
         ],
         "Description": "Rarely, critters are found coated entirely in gold! They are worth great coin to shopkeepers and fish absolutely love golden bait!",
         "Loot": [],
-        "ImgW": 10,
-        "ImgH": 6,
+        "ImgW": 14,
+        "ImgH": 18,
         "hardmode": false
     },
     {
@@ -1208,6 +1208,454 @@
         "Loot": [],
         "ImgW": 26,
         "ImgH": 34,
+        "hardmode": false
+    },
+    {
+        "Id": 86,
+        "Entity": "Firefly",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d7/Firefly.png",
+        "Stars": 2,
+        "Filters": [
+            "Nighttime"
+        ],
+        "Description": "Appears at night in calm locations, illuminating the sky with strobing green light. Fish are fairly attracted to these.",
+        "Loot": [],
+        "ImgW": 22,
+        "ImgH": 22,
+        "hardmode": false
+    },
+    {
+        "Id": 87,
+        "Entity": "Enchanted Nightcrawler",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/77/Enchanted_Nightcrawler.png",
+        "Stars": 5,
+        "Filters": [
+            "Nighttime"
+        ],
+        "Description": "Worms infused with fallen star magic glow with a glittering light. Fish are extremely attracted to these.",
+        "Loot": [],
+        "ImgW": 18,
+        "ImgH": 22,
+        "hardmode": false
+    },
+    {
+        "Id": 88,
+        "Entity": "Pink Fairy",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Pink_Fairy.gif",
+        "Stars": 4,
+        "Filters": [
+            "Nighttime"
+        ],
+        "Description": "Glowing winged humanoid creatures the size of a butterfly. Attuned to the world around them, they excel at finding shiny things.",
+        "Loot": [],
+        "ImgW": 14,
+        "ImgH": 18,
+        "hardmode": false
+    },
+    {
+        "Id": 89,
+        "Entity": "Green Fairy",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3c/Green_Fairy.gif",
+        "Stars": 4,
+        "Filters": [
+            "Nighttime"
+        ],
+        "Description": "Glowing winged humanoid creatures the size of a butterfly. Attuned to the world around them, they excel at finding shiny things.",
+        "Loot": [],
+        "ImgW": 18,
+        "ImgH": 18,
+        "hardmode": false
+    },
+    {
+        "Id": 90,
+        "Entity": "Blue Fairy",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Blue_Fairy.gif",
+        "Stars": 4,
+        "Filters": [
+            "Nighttime"
+        ],
+        "Description": "Glowing winged humanoid creatures the size of a butterfly. Attuned to the world around them, they excel at finding shiny things.",
+        "Loot": [],
+        "ImgW": 16,
+        "ImgH": 18,
+        "hardmode": false
+    },
+    {
+        "Id": 91,
+        "Entity": "Rat",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Rat.png",
+        "Stars": 1,
+        "Filters": [
+            "Graveyard"
+        ],
+        "Description": "These fuzzy rodents sniff about in putrid locations scavenging for food. They are avoided in fear of diseases they may carry.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 24,
+        "hardmode": false
+    },
+    {
+        "Id": 92,
+        "Entity": "Maggot",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/08/Maggot.png",
+        "Stars": 1,
+        "Filters": [
+            "Graveyard"
+        ],
+        "Description": "An unsavory larval bug which feasts on dead, rotting matter. Fish are somewhat attracted to these.",
+        "Loot": [],
+        "ImgW": 14,
+        "ImgH": 10,
+        "hardmode": false
+    },
+    {
+        "Id": 93,
+        "Entity": "Amethyst Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3e/Amethyst_Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 94,
+        "Entity": "Topaz Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/54/Topaz_Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 95,
+        "Entity": "Sapphire Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b4/Sapphire_Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 96,
+        "Entity": "Emerald Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Emerald_Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 97,
+        "Entity": "Ruby Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2b/Ruby_Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 98,
+        "Entity": "Diamond Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/59/Diamond_Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 99,
+        "Entity": "Amber Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Amber_Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "Glistening squirrels who strayed too deep become ensorcelled with residual cursed energy retained in gemstones.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 100,
+        "Entity": "Amethyst Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bc/Amethyst_Bunny.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 101,
+        "Entity": "Topaz Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e1/Topaz_Bunny.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 102,
+        "Entity": "Sapphire Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Sapphire_Bunny.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 103,
+        "Entity": "Emerald Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Emerald_Bunny.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 104,
+        "Entity": "Ruby Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0f/Ruby_Bunny.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 105,
+        "Entity": "Diamond Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Diamond_Bunny.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 106,
+        "Entity": "Amber Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Amber_Bunny.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "These colorful rabbits made their way so deep, their reaction to magicked gems resulted in a coveted sparkling appearance.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 107,
+        "Entity": "Snail",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c7/Snail_%28NPC%29.png",
+        "Stars": 1,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "A slimy mollusk that thrives in damp, dark places. Fish are barely attracted to these.",
+        "Loot": [],
+        "ImgW": 22,
+        "ImgH": 16,
+        "hardmode": false
+    },
+    {
+        "Id": 108,
+        "Entity": "Truffle Worm",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3e/Truffle_Worm.png",
+        "Stars": 3,
+        "Filters": [
+            "Underground Mushroom"
+        ],
+        "Description": "An extremely rare, difficult to catch glowworm. A specific, powerful sea creature is insatiably attracted to these.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 24,
+        "hardmode": true
+    },
+    {
+        "Id": 109,
+        "Entity": "Penguin",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b4/Penguin_blue.png",
+        "Stars": 1,
+        "Filters": [
+            "Snow"
+        ],
+        "Description": "Penguins make their home in the coldest regions of the world, waddling around looking for tasty fish.",
+        "Loot": [],
+        "ImgW": 24,
+        "ImgH": 38,
+        "hardmode": false
+    },
+    {
+        "Id": 110,
+        "Entity": "Penguin",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Penguin.png",
+        "Stars": 2,
+        "Filters": [
+            "Snow"
+        ],
+        "Description": "Penguins make their home in the coldest regions of the world, waddling around looking for tasty fish.",
+        "Loot": [],
+        "ImgW": 24,
+        "ImgH": 38,
+        "hardmode": false
+    },
+    {
+        "Id": 111,
+        "Entity": "Scorpion",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ab/Scorpion.png",
+        "Stars": 1,
+        "Filters": [
+            "Desert", "Daytime"
+        ],
+        "Description": "Harmlessly scuttles around the desert looking for food. Fish are barely attracted to these.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 20,
+        "hardmode": false
+    },
+    {
+        "Id": 112,
+        "Entity": "Black Scorpion",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ed/Black_Scorpion.png",
+        "Stars": 2,
+        "Filters": [
+            "Desert", "Daytime"
+        ],
+        "Description": "Despite its menacing appearance, it is quite docile unless threatened or facing smaller prey. Fish are occasionally attracted to these.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 22,
+        "hardmode": false
+    },
+    {
+        "Id": 113,
+        "Entity": "Grebe",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Grebe.png",
+        "Stars": 2,
+        "Filters": [
+            "Desert"
+        ],
+        "Description": "An exotic waterfowl that thrives in the desert oasis.",
+        "Loot": [],
+        "ImgW": 34,
+        "ImgH": 38,
+        "hardmode": false
+    },
+    {
+        "Id": 114,
+        "Entity": "Pupfish",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fd/Pupfish.png",
+        "Stars": 2,
+        "Filters": [
+            "Desert"
+        ],
+        "Description": "These fish prefer isolated, extreme climates where competition is scarce, such as the lakebeds of a desert oasis.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 22,
+        "hardmode": false
+    },
+    {
+        "Id": 115,
+        "Entity": "Seagull",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9a/Seagull.png",
+        "Stars": 1,
+        "Filters": [
+            "Ocean"
+        ],
+        "Description": "A larger bird that inhabits coastal areas. Watch out for droppings!",
+        "Loot": [],
+        "ImgW": 36,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 116,
+        "Entity": "Sea Turtle",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Sea_Turtle.png",
+        "Stars": 1,
+        "Filters": [
+            "Ocean"
+        ],
+        "Description": "A soft-shelled reptile that prefers saltwater and marine prey.",
+        "Loot": [],
+        "ImgW": 56,
+        "ImgH": 26,
+        "hardmode": false
+    },
+    {
+        "Id": 117,
+        "Entity": "Dolphin",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0b/Dolphin.png",
+        "Stars": 3,
+        "Filters": [
+            "Ocean"
+        ],
+        "Description": "A playful sea mammal whose intelligence rivals that of humanity.",
+        "Loot": [],
+        "ImgW": 66,
+        "ImgH": 26,
         "hardmode": false
     }
 ]

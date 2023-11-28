@@ -7,7 +7,6 @@ $(document).ready(()=>{
     actualizarTabla();
 });
 
-
 function actualizarTabla() {
     var filasHtml = '';
     let filas = "";
@@ -42,8 +41,6 @@ function actualizarTabla() {
   }
 
 function cumpleConFiltros(entity) {
-    // Implementa la lógica para verificar si la entidad cumple con al menos un filtro activo
-    // Por ejemplo, si entity.Filters contiene al menos un filtro activo
     return entity.Filters.some(filtro => filtrosActivos.includes(filtro));
 }
 
@@ -58,13 +55,75 @@ function gestionarFiltro(filtro){
     actualizarTabla();
 }
 
+document.getElementById('btnBoss').addEventListener('click', function() {
+    gestionarFiltro("Boss Enemy");
+});
+document.getElementById('btnRare').addEventListener('click', function() {
+    gestionarFiltro("Rare Creature");
+});
 document.getElementById('btnSurface').addEventListener('click', function() {
     gestionarFiltro("Surface");
+});
+document.getElementById('btnDaytime').addEventListener('click', function() {
+    gestionarFiltro("Daytime");
+});
+document.getElementById('btnParty').addEventListener('click', function() {
+    gestionarFiltro("Party");
+});
+document.getElementById('btnWindy').addEventListener('click', function() {
+    gestionarFiltro("Windy Day");
+});
+document.getElementById('btnRain').addEventListener('click', function() {
+    gestionarFiltro("Rain");
+});
+document.getElementById('btnNight').addEventListener('click', function() {
+    gestionarFiltro("Nighttime");
+});
+document.getElementById('btnBlood').addEventListener('click', function() {
+    gestionarFiltro("Blood Moon");
+});
+document.getElementById('btnGraveyard').addEventListener('click', function() {
+    gestionarFiltro("Graveyard");
 });
 document.getElementById('btnUnderground').addEventListener('click', function() {
     gestionarFiltro("Underground");
 });
+document.getElementById('btnCaverns').addEventListener('click', function() {
+    gestionarFiltro("Caverns");
+});
+document.getElementById('btnGranite').addEventListener('click', function() {
+    gestionarFiltro("Granite");
+});
+document.getElementById('btnMarble').addEventListener('click', function() {
+    gestionarFiltro("Marble");
+});
+document.getElementById('btnUnderMush').addEventListener('click', function() {
+    gestionarFiltro("Underground Mushroom");
+});
+document.getElementById('btnSpider').addEventListener('click', function() {
+    gestionarFiltro("Spider Nest");
+});
+document.getElementById('btnSnow').addEventListener('click', function() {
+    gestionarFiltro("Snow");
+});
+document.getElementById('btnUnderSnow').addEventListener('click', function() {
+    gestionarFiltro("Underground Snow");
+});
+document.getElementById('btnDesert').addEventListener('click', function() {
+    gestionarFiltro("Desert");
+});
+document.getElementById('btnUnderDesert').addEventListener('click', function() {
+    gestionarFiltro("Underground Desert");
+});
+document.getElementById('btnSandstorm').addEventListener('click', function() {
+    gestionarFiltro("Sandstorm");
+});
+document.getElementById('btnOcean').addEventListener('click', function() {
+    gestionarFiltro("Ocean");
+});
 document.getElementById('btnJungle').addEventListener('click', function() {
     gestionarFiltro("The Jungle");
 });
-
+document.getElementById('btnUnderJungle').addEventListener('click', function() {
+    gestionarFiltro("Underground Jungle");
+});
