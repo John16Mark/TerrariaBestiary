@@ -126,6 +126,13 @@
         "ImgH": 24
     },
     {
+        "Id": 22,
+        "Filter": "Sandstorm",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/88/Bestiary_Sandstorm.png",
+        "ImgW": 24,
+        "ImgH": 24
+    },
+    {
         "Id": 23,
         "Filter": "Ocean",
         "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Bestiary_Ocean.png",

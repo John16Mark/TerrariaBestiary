@@ -44,11 +44,16 @@ function cumpleConFiltros(entity) {
     return entity.Filters.some(filtro => filtrosActivos.includes(filtro));
 }
 
-function gestionarFiltro(filtro){
+function gestionarFiltro(filtro, id){
     var indice = filtrosActivos.indexOf(filtro);
+    var cadena = "./img/"+filtro;
     if(indice === -1){
+        cadena += "ON.png";
+        document.getElementById(id).querySelector('img').src = cadena;
         filtrosActivos.push(filtro);
     } else {
+        cadena += "OFF.png";
+        document.getElementById(id).querySelector('img').src = cadena;
         filtrosActivos.splice(indice, 1);
     }
     console.log(filtrosActivos);
@@ -56,74 +61,74 @@ function gestionarFiltro(filtro){
 }
 
 document.getElementById('btnBoss').addEventListener('click', function() {
-    gestionarFiltro("Boss Enemy");
+    gestionarFiltro("Boss Enemy", 'btnBoss');
 });
 document.getElementById('btnRare').addEventListener('click', function() {
-    gestionarFiltro("Rare Creature");
+    gestionarFiltro("Rare Creature", 'btnRare');
 });
 document.getElementById('btnSurface').addEventListener('click', function() {
-    gestionarFiltro("Surface");
+    gestionarFiltro("Surface", 'btnSurface');
 });
 document.getElementById('btnDaytime').addEventListener('click', function() {
-    gestionarFiltro("Daytime");
+    gestionarFiltro("Daytime", 'btnDaytime');
 });
 document.getElementById('btnParty').addEventListener('click', function() {
-    gestionarFiltro("Party");
+    gestionarFiltro("Party", 'btnParty');
 });
 document.getElementById('btnWindy').addEventListener('click', function() {
-    gestionarFiltro("Windy Day");
+    gestionarFiltro("Windy Day", 'btnWindy');
 });
 document.getElementById('btnRain').addEventListener('click', function() {
-    gestionarFiltro("Rain");
+    gestionarFiltro("Rain", 'btnRain');
 });
 document.getElementById('btnNight').addEventListener('click', function() {
-    gestionarFiltro("Nighttime");
+    gestionarFiltro("Nighttime", 'btnNight');
 });
 document.getElementById('btnBlood').addEventListener('click', function() {
-    gestionarFiltro("Blood Moon");
+    gestionarFiltro("Blood Moon", 'btnBlood');
 });
 document.getElementById('btnGraveyard').addEventListener('click', function() {
-    gestionarFiltro("Graveyard");
+    gestionarFiltro("Graveyard", 'btnGraveyard');
 });
 document.getElementById('btnUnderground').addEventListener('click', function() {
-    gestionarFiltro("Underground");
+    gestionarFiltro("Underground", 'btnUnderground');
 });
 document.getElementById('btnCaverns').addEventListener('click', function() {
-    gestionarFiltro("Caverns");
+    gestionarFiltro("Caverns", 'btnCaverns');
 });
 document.getElementById('btnGranite').addEventListener('click', function() {
-    gestionarFiltro("Granite");
+    gestionarFiltro("Granite", 'btnGranite');
 });
 document.getElementById('btnMarble').addEventListener('click', function() {
-    gestionarFiltro("Marble");
+    gestionarFiltro("Marble", 'btnMarble');
 });
 document.getElementById('btnUnderMush').addEventListener('click', function() {
-    gestionarFiltro("Underground Mushroom");
+    gestionarFiltro("Underground Mushroom", 'btnUnderMush');
 });
 document.getElementById('btnSpider').addEventListener('click', function() {
-    gestionarFiltro("Spider Nest");
+    gestionarFiltro("Spider Nest", 'btnSpider');
 });
 document.getElementById('btnSnow').addEventListener('click', function() {
-    gestionarFiltro("Snow");
+    gestionarFiltro("Snow", 'btnSnow');
 });
 document.getElementById('btnUnderSnow').addEventListener('click', function() {
-    gestionarFiltro("Underground Snow");
+    gestionarFiltro("Underground Snow", 'btnUnderSnow');
 });
 document.getElementById('btnDesert').addEventListener('click', function() {
-    gestionarFiltro("Desert");
+    gestionarFiltro("Desert", 'btnDesert');
 });
 document.getElementById('btnUnderDesert').addEventListener('click', function() {
-    gestionarFiltro("Underground Desert");
+    gestionarFiltro("Underground Desert", 'btnUnderDesert');
 });
 document.getElementById('btnSandstorm').addEventListener('click', function() {
-    gestionarFiltro("Sandstorm");
+    gestionarFiltro("Sandstorm", 'btnSandstorm');
 });
 document.getElementById('btnOcean').addEventListener('click', function() {
-    gestionarFiltro("Ocean");
+    gestionarFiltro("Ocean", 'btnSandstorm');
 });
 document.getElementById('btnJungle').addEventListener('click', function() {
-    gestionarFiltro("The Jungle");
+    gestionarFiltro("The Jungle", 'btnJungle');
 });
 document.getElementById('btnUnderJungle').addEventListener('click', function() {
-    gestionarFiltro("Underground Jungle");
+    gestionarFiltro("Underground Jungle", 'btnUnderJungle');
 });
