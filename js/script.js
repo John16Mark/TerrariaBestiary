@@ -124,7 +124,7 @@ document.getElementById('btnSandstorm').addEventListener('click', function() {
     gestionarFiltro("Sandstorm", 'btnSandstorm');
 });
 document.getElementById('btnOcean').addEventListener('click', function() {
-    gestionarFiltro("Ocean", 'btnSandstorm');
+    gestionarFiltro("Ocean", 'btnOcean');
 });
 document.getElementById('btnJungle').addEventListener('click', function() {
     gestionarFiltro("The Jungle", 'btnJungle');
