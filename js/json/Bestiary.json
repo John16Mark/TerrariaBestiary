@@ -1,0 +1,1213 @@
+[
+    {
+        "Id": 1,
+        "Entity": "Guide",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7f/Guide.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "The Guide always offers useful advice and crafting recipes. His origins and unusual connections to this world remain a mystery.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 46,
+        "hardmode": false
+    },
+    {
+        "Id": 2,
+        "Entity": "Merchant",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/19/Merchant.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "The Merchant acts as a simple general store of sorts, providing useful starter tools and supplies needed for exploration.",
+        "Loot": [],
+        "ImgW": 30,
+        "ImgH": 44,
+        "hardmode": false
+    },
+    {
+        "Id": 3,
+        "Entity": "Nurse",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cc/Nurse.png",
+        "Stars": 1,
+        "Filters": [
+            "The Hallow"
+        ],
+        "Description": "The Nurse's snarky attitude and poor bedside manner may be scary, but for a price, she will cure all that ails a wounded Terrarian.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 46,
+        "hardmode": false
+    },
+    {
+        "Id": 4,
+        "Entity": "Demolitionist",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6e/Demolitionist.png",
+        "Stars": 1,
+        "Filters": [
+            "Underground"
+        ],
+        "Description": "Tread carefully around this dwarf. The Demolitionist is an explosive fanatic and sells dangerous things that go 'Boom!'",
+        "Loot": [],
+        "ImgW": 36,
+        "ImgH": 40,
+        "hardmode": false
+    },
+    {
+        "Id": 5,
+        "Entity": "Angler",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/bf/Angler.png",
+        "Stars": 2,
+        "Filters": [
+            "Ocean"
+        ],
+        "Description": "The Angler, a rude fishing genius, sends others to find weird, rare fish. He rewards random items, entertained by any misfortunes.",
+        "Loot": [],
+        "ImgW": 24,
+        "ImgH": 42,
+        "hardmode": false
+    },
+    {
+        "Id": 6,
+        "Entity": "Dryad",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Dryad.png",
+        "Stars": 3,
+        "Filters": [
+            "The Jungle"
+        ],
+        "Description": "The Dryad is the last of her kind. She is connected with nature and can analyze its purity worldwide. She sells seeds, too!",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 46,
+        "hardmode": false
+    },
+    {
+        "Id": 7,
+        "Entity": "Arms Dealer",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9e/Arms_Dealer.png",
+        "Stars": 1,
+        "Filters": [
+            "Desert"
+        ],
+        "Description": "The Arms Dealer has everything anyone could need to shoot things dead, from little round bullets to guns made from sharks.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 46,
+        "hardmode": false
+    },
+    {
+        "Id": 8,
+        "Entity": "Dye Trader",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/51/Dye_Trader.png",
+        "Stars": 2,
+        "Filters": [
+            "Desert"
+        ],
+        "Description": "Eccentric and rather snobby to a fault, the Dye Trader has expensive tastes. He is passionate about the materials used in the dyes he sells.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 46,
+        "hardmode": false
+    },
+    {
+        "Id": 9,
+        "Entity": "Painter",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Painter.png",
+        "Stars": 2,
+        "Filters": [
+            "The Jungle"
+        ],
+        "Description": "The Painter can talk about all the different shades of colors with which one can paint the walls. He'll sell but a handful of them!",
+        "Loot": [],
+        "ImgW": 34,
+        "ImgH": 44,
+        "hardmode": false
+    },
+    {
+        "Id": 10,
+        "Entity": "Stylist",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/16/Stylist.png",
+        "Stars": 2,
+        "Filters": [
+            "Ocean"
+        ],
+        "Description": "The Stylist loves style, gossip, and hair. Aside from performing a miracle makeover, she sells some hair product as well.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 52,
+        "hardmode": false
+    },
+    {
+        "Id": 11,
+        "Entity": "Zoologist",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Zoologist.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "The Zoologist, resident lycanthrope, adores animals. Her fox-like biology resulted from a cursed animal bite.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 48,
+        "hardmode": false
+    },
+    {
+        "Id": 12,
+        "Entity": "Tavernkeep",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Tavernkeep.png",
+        "Stars": 2,
+        "Filters": [
+            "The Hallow"
+        ],
+        "Description": "The Tavern Keep once managed a bar in another universe. He's here to help stop the Old One's Army from conquering this world.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 48,
+        "hardmode": false
+    },
+    {
+        "Id": 13,
+        "Entity": "Golfer",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Golfer.png",
+        "Stars": 2,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "The Golfer is a wise, middle-aged man who sells all sorts of golfing equipment. He's got game and knows how to score.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 44,
+        "hardmode": false
+    },
+    {
+        "Id": 14,
+        "Entity": "Goblin Tinkerer",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Goblin_Tinkerer.png",
+        "Stars": 3,
+        "Filters": [
+            "Underground"
+        ],
+        "Description": "Exiled from the rest of goblinkind for being an intelligent pacifist, the Tinkerer sells tools for combining accessories into stronger versions.",
+        "Loot": [],
+        "ImgW": 24,
+        "ImgH": 42,
+        "hardmode": false
+    },
+    {
+        "Id": 15,
+        "Entity": "Witch Doctor",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ac/Witch_Doctor.png",
+        "Stars": 2,
+        "Filters": [
+            "The Jungle"
+        ],
+        "Description": "It's unusual for a Lihzahrd to be outside the Temple. Even more unusual are the voodoo things he sells. He prefers his jungle digs.",
+        "Loot": [],
+        "ImgW": 46,
+        "ImgH": 48,
+        "hardmode": false
+    },
+    {
+        "Id": 16,
+        "Entity": "Mechanic",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/55/Mechanic.png",
+        "Stars": 2,
+        "Filters": [
+            "Snow"
+        ],
+        "Description": "The Mechanic was imprisoned for her aptitude in engineering. She sells wiring and tools for putting together anything imaginable.",
+        "Loot": [],
+        "ImgW": 34,
+        "ImgH": 44,
+        "hardmode": false
+    },
+    {
+        "Id": 17,
+        "Entity": "Clothier",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Clothier.png",
+        "Stars": 2,
+        "Filters": [
+            "Underground"
+        ],
+        "Description": "Once trapped under a curse, the Clothier is the master of thread. If it's fashion that's desired, he's the man! He talks in a familiar way.",
+        "Loot": [],
+        "ImgW": 30,
+        "ImgH": 48,
+        "hardmode": false
+    },
+    {
+        "Id": 18,
+        "Entity": "Wizard",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c7/Wizard.png",
+        "Stars": 3,
+        "Filters": [
+            "The Hallow"
+        ],
+        "Description": "The Wizard is an absent-minded, demented old man who dabbles in the arcane arts. He sells magical trinkets to train new apprentices.",
+        "Loot": [],
+        "ImgW": 34,
+        "ImgH": 54,
+        "hardmode": true
+    },
+    {
+        "Id": 19,
+        "Entity": "Steampunker",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Steampunker.png",
+        "Stars": 3,
+        "Filters": [
+            "Desert"
+        ],
+        "Description": "The Steampunker has a particular taste for steam-fueled machinery and gadgets. She sells her gizmos with an endearing accent.",
+        "Loot": [],
+        "ImgW": 22,
+        "ImgH": 50,
+        "hardmode": true
+    },
+    {
+        "Id": 20,
+        "Entity": "Pirate",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7d/Pirate.png",
+        "Stars": 2,
+        "Filters": [
+            "Ocean"
+        ],
+        "Description": "Ahoy! The only good Pirate Captain is... one that sells cannons and weapons to take out all competing Pirate Captains!",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 48,
+        "hardmode": true
+    },
+    {
+        "Id": 21,
+        "Entity": "Truffle",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f2/Truffle.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface Mushroom"
+        ],
+        "Description": "Harnessing the hidden power of the glowing mushroom, the Truffle forges weapons and tools exclusively in his mushroom home.",
+        "Loot": [],
+        "ImgW": 30,
+        "ImgH": 56,
+        "hardmode": true
+    },
+    {
+        "Id": 22,
+        "Entity": "Tax Collector",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/75/Tax_Collector.png",
+        "Stars": 5,
+        "Filters": [
+            "Snow"
+        ],
+        "Description": "This grumpy Tax Collector has literally been to hell and back. Greedy to a fault, he's truly only concerned with money.",
+        "Loot": [],
+        "ImgW": 34,
+        "ImgH": 48,
+        "hardmode": true
+    },
+    {
+        "Id": 23,
+        "Entity": "Cyborg",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a3/Cyborg.png",
+        "Stars": 3,
+        "Filters": [
+            "Snow"
+        ],
+        "Description": "The Cyborg was built with the combined efforts of the Mechanic and the Steampunker to aid in rocket science and world defense.",
+        "Loot": [],
+        "ImgW": 24,
+        "ImgH": 48,
+        "hardmode": true
+    },
+    {
+        "Id": 24,
+        "Entity": "Party Girl",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Party_Girl.png",
+        "Stars": 4,
+        "Filters": [
+            "The Hallow"
+        ],
+        "Description": "Positive beyond comprehension, the Party Girl will use any excuse to celebrate. She sells party favors and flashy things.",
+        "Loot": [],
+        "ImgW": 30,
+        "ImgH": 44,
+        "hardmode": false
+    },
+    {
+        "Id": 25,
+        "Entity": "Princess",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f2/Princess.png",
+        "Stars": 5,
+        "Filters": [
+            "The Hallow"
+        ],
+        "Description": "Shy and innocent, this happy young lady sees the positive in everything, and everybody. She appreciates all of her subjects, from all walks of life.",
+        "Loot": [],
+        "ImgW": 30,
+        "ImgH": 44,
+        "hardmode": true
+    },
+    {
+        "Id": 26,
+        "Entity": "Santa Claus",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Santa_Claus.png",
+        "Stars": 5,
+        "Filters": [
+            "Snow",
+            "Christmas"
+        ],
+        "Description": "Only present during a specific time of year, Santa Claus makes a big entrance and an even bigger, rather explosive exit. Ho! Ho! Ho!",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 52,
+        "hardmode": true
+    },
+    {
+        "Id": 27,
+        "Entity": "Town Cat",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fe/Siamese_Cat.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Lazy, devious, might bring presents. Presents might have once been breathing.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 28,
+        "Entity": "Town Dog",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/12/Labrador.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "A loyal companion to many. Excitable and always ready for action.",
+        "Loot": [],
+        "ImgW": 56,
+        "ImgH": 34,
+        "hardmode": false
+    },
+    {
+        "Id": 29,
+        "Entity": "Town Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/44/White_Bunny.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Guaranteed to keep the vegetable supplies in check. Might possibly become a hat.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 26,
+        "hardmode": false
+    },
+    {
+        "Id": 30,
+        "Entity": "Nerdy Slime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7a/Nerdy_Slime.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Just a smidge cleverer than other slimes, this slime discovered how to coexist with humans. The secret: accessorizing!",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 24,
+        "hardmode": false
+    },
+    {
+        "Id": 31,
+        "Entity": "Cool Slime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/92/Cool_Slime.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Easily the coolest slime around, no question. You can tell from the backwards hat and indecipherable slang.",
+        "Loot": [],
+        "ImgW": 36,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 32,
+        "Entity": "Elder Slime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Elder_Slime.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Older, though not necessarily wiser, the other slimes look up to the Elder Slime. If it survived this long, it must know something!",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 34,
+        "hardmode": false
+    },
+    {
+        "Id": 33,
+        "Entity": "Clumsy Slime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/28/Clumsy_Slime.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "This slime was a little confused when the other slimes started putting on hats and accessories. But it did its best.",
+        "Loot": [],
+        "ImgW": 36,
+        "ImgH": 32,
+        "hardmode": false
+    },
+    {
+        "Id": 34,
+        "Entity": "Diva Slime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6e/Diva_Slime.gif",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Born of the combined energies of Shimmer and the Queen Slime, this slime is full of boundless energy and enthusiasm! And so fancy!",
+        "Loot": [],
+        "ImgW": 34,
+        "ImgH": 28,
+        "hardmode": true
+    },
+    {
+        "Id": 35,
+        "Entity": "Surly Slime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/7c/Surly_Slime.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Irascible and insufferable, this grumpy slime is probably up to no good. Probably. It's the thought that counts, really.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 36,
+        "Entity": "Mystic Slime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/73/Mystic_Slime.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "This slime knows that great witches wear impressive hats, but it only found a droopy one. Might explain the backfired polymorph!",
+        "Loot": [],
+        "ImgW": 40,
+        "ImgH": 34,
+        "hardmode": false
+    },
+    {
+        "Id": 37,
+        "Entity": "Squire Slime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/24/Squire_Slime.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "A hero amongst slimes, it wields the greatest arms and armor known to its kind. It doesn't actually know how to use them, but it's a start.",
+        "Loot": [],
+        "ImgW": 52,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 38,
+        "Entity": "Traveling Merchant",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Traveling_Merchant.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "The flamboyantly-dressed Traveling Merchant travels far and wide to bring unique, cultural wares from time to time.",
+        "Loot": [],
+        "ImgW": 30,
+        "ImgH": 56,
+        "hardmode": false
+    },
+    {
+        "Id": 39,
+        "Entity": "Skeleton Merchant",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Skeleton_Merchant.png",
+        "Stars": 4,
+        "Filters": [
+            "Underground"
+        ],
+        "Description": "Most skeletons are out for blood, but not the Skeleton Merchant. He just wants to sell supplies, such as rare torches and yo-yo gear.",
+        "Loot": [],
+        "ImgW": 42,
+        "ImgH": 48,
+        "hardmode": false
+    },
+    {
+        "Id": 40,
+        "Entity": "Old Man",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Old_Man.png",
+        "Stars": 2,
+        "Filters": [
+            "The Dungeon"
+        ],
+        "Description": "This hapless Old Man carries the burden of a heavy curse. It's said at night he transforms into a horrific demon which guards the Dungeon.",
+        "Loot": [],
+        "ImgW": 30,
+        "ImgH": 42,
+        "hardmode": false
+    },
+    {
+        "Id": 41,
+        "Entity": "Mystic Frog",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5f/Mystic_Frog.png",
+        "Stars": 4,
+        "Filters": [
+            "The Jungle"
+        ],
+        "Description": "A curious frog with a funny hat, surrounded by potent magic! Perhaps something can break its curse... you probably shouldn't kiss it!",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 26,
+        "hardmode": false
+    },
+    {
+        "Id": 42,
+        "Entity": "Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Bunny.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "Fuzzy wuzzy creatures that prefer safe, friendly locations.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 26,
+        "hardmode": false
+    },
+    {
+        "Id": 43,
+        "Entity": "Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/65/Party_Bunny.png",
+        "Stars": 2,
+        "Filters": [
+            "Surface",
+            "Daytime",
+            "Party"
+        ],
+        "Description": "Someone put a party hat on a bunny. It must be a real party animal.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 36,
+        "hardmode": false
+    },
+    {
+        "Id": 44,
+        "Entity": "Explosive Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Explosive_Bunny.png",
+        "Stars": 4,
+        "Filters": [
+            "Underground"
+        ],
+        "Description": "Not the typical garden-variety bunny. This one has been tampered with, and has an explosive temper as a result.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 26,
+        "hardmode": false
+    },
+    {
+        "Id": 45,
+        "Entity": "Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/38/Slime_Bunny.png",
+        "Stars": 4,
+        "Filters": [
+            "Surface",
+            "Daytime",
+            "Halloween"
+        ],
+        "Description": "Is it a bunny in a slime costume? Or is it a slime in a bunny costume? Halloween can be very confusing sometimes.",
+        "Loot": [],
+        "ImgW": 30,
+        "ImgH": 26,
+        "hardmode": false
+    },
+    {
+        "Id": 46,
+        "Entity": "Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d0/Santa_Bunny.png",
+        "Stars": 4,
+        "Filters": [
+            "Surface",
+            "Daytime",
+            "Christmas"
+        ],
+        "Description": "Judging by the outfit, Santa appears to have recruited some bunnies to be his little helpers this year.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 47,
+        "Entity": "Gold Bunny",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0e/Gold_Bunny.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! Shopkeepers will pay handsomely for these, or you can show them off in cages!",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 26,
+        "hardmode": false
+    },
+    {
+        "Id": 48,
+        "Entity": "Bird",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/3d/Bird_%28NPC%29.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "A simple white bird which enjoys a calm sunny day.",
+        "Loot": [],
+        "ImgW": 16,
+        "ImgH": 14,
+        "hardmode": false
+    },
+    {
+        "Id": 49,
+        "Entity": "Blue Jay",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Blue_Jay.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "This little blue bird came looking for worms.",
+        "Loot": [],
+        "ImgW": 22,
+        "ImgH": 16,
+        "hardmode": false
+    },
+    {
+        "Id": 50,
+        "Entity": "Cardinal",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d2/Cardinal.png",
+        "Stars": 2,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "A rare, red-crested friend of the forest.",
+        "Loot": [],
+        "ImgW": 16,
+        "ImgH": 16,
+        "hardmode": false
+    },
+    {
+        "Id": 51,
+        "Entity": "Scarlet Macaw",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/58/Scarlet_Macaw.png",
+        "Stars": 3,
+        "Filters": [
+            "The Jungle",
+            "Daytime"
+        ],
+        "Description": "A lovely tropical bird with plumage that reminds one of a beautiful sunset over the jungle canopy.",
+        "Loot": [],
+        "ImgW": 16,
+        "ImgH": 36,
+        "hardmode": false
+    },
+    {
+        "Id": 52,
+        "Entity": "Blue Macaw",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Blue_Macaw.png",
+        "Stars": 3,
+        "Filters": [
+            "The Jungle",
+            "Daytime"
+        ],
+        "Description": "Evoking visions of a bright summer sky over crystal blue waters, this tropical bird can be found foraging for seeds in the trees of the jungle.",
+        "Loot": [],
+        "ImgW": 16,
+        "ImgH": 36,
+        "hardmode": false
+    },
+    {
+        "Id": 53,
+        "Entity": "Toucan",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Toucan.png",
+        "Stars": 3,
+        "Filters": [
+            "The Jungle",
+            "Daytime"
+        ],
+        "Description": "You can often find this brightly-plumed and large-beaked bird looping around high in the trees in search of delicious fruit.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 54,
+        "Entity": "Yellow Cockatiel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Yellow_Cockatiel.png",
+        "Stars": 3,
+        "Filters": [
+            "The Jungle",
+            "Daytime"
+        ],
+        "Description": "The distinct plumage of this bird's crest is a tell-tale sign of its emotional state, often raised when it is excited.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 55,
+        "Entity": "Gray Cockatiel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/de/Gray_Cockatiel.png",
+        "Stars": 3,
+        "Filters": [
+            "The Jungle",
+            "Daytime"
+        ],
+        "Description": "A very social animal by nature, these close cousins of parrots can often be taught to say simple phrases.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 56,
+        "Entity": "Gold Bird",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b8/Gold_Bird.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! Shopkeepers will pay handsomely for these, or you can show them off in cages!",
+        "Loot": [],
+        "ImgW": 22,
+        "ImgH": 16,
+        "hardmode": false
+    },
+    {
+        "Id": 57,
+        "Entity": "Goldfish",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/18/Goldfish_swimming.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "A seemingly ordinary goldfish, until it decides to rain.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 22,
+        "hardmode": false
+    },
+    {
+        "Id": 58,
+        "Entity": "Gold Goldfish",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Gold_Goldfish_swimming.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! Shopkeepers will pay handsomely for these, or you can show them off in cages!",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 22,
+        "hardmode": false
+    },
+    {
+        "Id": 59,
+        "Entity": "Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/41/Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "Fast moving and erratic woodland creatures with grayish-brown fur. Got nuts?",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 60,
+        "Entity": "Red Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Red_Squirrel.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "Rare, red-furred hyperactive rodents which scurry about the woods.",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 61,
+        "Entity": "Gold Squirrel",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/27/Gold_Squirrel.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface",
+            "Daytime"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! Shopkeepers will pay handsomely for these, or you can show them off in cages!",
+        "Loot": [],
+        "ImgW": 28,
+        "ImgH": 30,
+        "hardmode": false
+    },
+    {
+        "Id": 62,
+        "Entity": "Mouse",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Mouse.png",
+        "Stars": 1,
+        "Filters": [
+            "Underground"
+        ],
+        "Description": "Mice squeak around harmlessly, looking for small insects in damp underground locations.",
+        "Loot": [],
+        "ImgW": 20,
+        "ImgH": 20,
+        "hardmode": false
+    },
+    {
+        "Id": 63,
+        "Entity": "Gold Mouse",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/94/Gold_Mouse.png",
+        "Stars": 5,
+        "Filters": [
+            "Underground"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! Shopkeepers will pay handsomely for these, or you can show them off in cages!",
+        "Loot": [],
+        "ImgW": 20,
+        "ImgH": 20,
+        "hardmode": false
+    },
+    {
+        "Id": 64,
+        "Entity": "Frog",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e6/Frog.png",
+        "Stars": 1,
+        "Filters": [
+            "The Jungle"
+        ],
+        "Description": "Prefers bodies of water filled with thick growth. Perfectly content both on land and underwater.",
+        "Loot": [],
+        "ImgW": 18,
+        "ImgH": 14,
+        "hardmode": false
+    },
+    {
+        "Id": 65,
+        "Entity": "Gold Frog",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Gold_Frog.png",
+        "Stars": 5,
+        "Filters": [
+            "The Jungle"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! Shopkeepers will pay handsomely for these, or you can show them off in cages!",
+        "Loot": [],
+        "ImgW": 18,
+        "ImgH": 14,
+        "hardmode": false
+    },
+    {
+        "Id": 66,
+        "Entity": "Grasshopper",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a4/Grasshopper_%28NPC%29.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "It leaps tall blades of grass in a single bound. Fish are fairly attracted to these.",
+        "Loot": [],
+        "ImgW": 14,
+        "ImgH": 10,
+        "hardmode": false
+    },
+    {
+        "Id": 67,
+        "Entity": "Gold Grasshopper",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/90/Gold_Grasshopper_%28NPC%29.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! Shopkeepers will pay handsomely for these, or you can show them off in cages!",
+        "Loot": [],
+        "ImgW": 14,
+        "ImgH": 10,
+        "hardmode": false
+    },
+    {
+        "Id": 68,
+        "Entity": "Butterfly",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1d/Julia_Butterfly.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "Beautiful fluttering insects that love sunrises. Fish are attracted to these based on their color variety.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 26,
+        "hardmode": false
+    },
+    {
+        "Id": 69,
+        "Entity": "Gold Butterfly",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2a/Gold_Butterfly.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! Shopkeepers will pay handsomely for these, or you can show them off in cages!",
+        "Loot": [],
+        "ImgW": 22,
+        "ImgH": 20,
+        "hardmode": false
+    },
+    {
+        "Id": 70,
+        "Entity": "Worm",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9a/Worm_%28NPC%29.png",
+        "Stars": 1,
+        "Filters": [
+            "Surface", "Rain"
+        ],
+        "Description": "A slick, tubular invertebrate found hiding in rocks, dirt, and grass. Loves the rain. Fish are especially attracted to these.",
+        "Loot": [],
+        "ImgW": 10,
+        "ImgH": 6,
+        "hardmode": false
+    },
+    {
+        "Id": 71,
+        "Entity": "Gold Worm",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/47/Gold_Worm_%28NPC%29.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface", "Rain"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! They are worth great coin to shopkeepers and fish absolutely love golden bait!",
+        "Loot": [],
+        "ImgW": 10,
+        "ImgH": 6,
+        "hardmode": false
+    },
+    {
+        "Id": 72,
+        "Entity": "Dragonfly",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ec/Green_Dragonfly.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "A swift-flying insect which hunts mosquitoes. Comes in a variety of colors. Fish are somewhat attracted to these.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 24,
+        "hardmode": false
+    },
+    {
+        "Id": 73,
+        "Entity": "Gold Dragonfly",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/48/Gold_Dragonfly.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! They are worth great coin to shopkeepers and fish absolutely love golden bait!",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 24,
+        "hardmode": false
+    },
+    {
+        "Id": 74,
+        "Entity": "Seahorse",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6e/Seahorse.png",
+        "Stars": 2,
+        "Filters": [
+            "Ocean"
+        ],
+        "Description": "A gentle critter which swims harmlessly in the ocean depths.",
+        "Loot": [],
+        "ImgW": 20,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 75,
+        "Entity": "Gold Seahorse",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/46/Gold_Seahorse.png",
+        "Stars": 5,
+        "Filters": [
+            "Ocean"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! They are worth great coin to shopkeepers and fish absolutely love golden bait!",
+        "Loot": [],
+        "ImgW": 20,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 76,
+        "Entity": "Water Strider",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/90/Water_Strider_%28NPC%29.png",
+        "Stars": 2,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "Glides elegantly along the surface of calm bodies of water searching for smaller bugs. Fish are occasionally attracted to these.",
+        "Loot": [],
+        "ImgW": 20,
+        "ImgH": 10,
+        "hardmode": false
+    },
+    {
+        "Id": 77,
+        "Entity": "Gold Water Strider",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/99/Gold_Water_Strider_%28NPC%29.png",
+        "Stars": 5,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! They are worth great coin to shopkeepers and fish absolutely love golden bait!",
+        "Loot": [],
+        "ImgW": 20,
+        "ImgH": 10,
+        "hardmode": false
+    },
+    {
+        "Id": 78,
+        "Entity": "Ladybug",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/38/Ladybug.png",
+        "Stars": 3,
+        "Filters": [
+            "Windy Day"
+        ],
+        "Description": "A brilliant red insect often associated with luck. Fishing with these as bait may result in unwanted karma.",
+        "Loot": [],
+        "ImgW": 16,
+        "ImgH": 10,
+        "hardmode": false
+    },
+    {
+        "Id": 79,
+        "Entity": "Gold Ladybug",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5d/Gold_Ladybug.png",
+        "Stars": 5,
+        "Filters": [
+            "Windy Day"
+        ],
+        "Description": "Rarely, critters are found coated entirely in gold! They are worth great coin to shopkeepers and fish absolutely love golden bait!",
+        "Loot": [],
+        "ImgW": 16,
+        "ImgH": 10,
+        "hardmode": false
+    },
+    {
+        "Id": 80,
+        "Entity": "Stinkbug",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Stinkbug.png",
+        "Stars": 3,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "These sneaky pests have a knack for invading even the most airtight of homes, projecting their cilantro-like stench everywhere if disturbed.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 21,
+        "hardmode": false
+    },
+    {
+        "Id": 81,
+        "Entity": "Faeling",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/97/Faeling.png",
+        "Stars": 5,
+        "Filters": [
+            "Caverns"
+        ],
+        "Description": "These scintillating fairy-like creatures are born when animals wander into the glowing depths of a Shimmer pond.",
+        "Loot": [],
+        "ImgW": 20,
+        "ImgH": 16,
+        "hardmode": false
+    },
+    {
+        "Id": 82,
+        "Entity": "Mallard Duck",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/09/Mallard_Duck_%28NPC%29.png",
+        "Stars": 2,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "A water fowl with beautiful plumage. Swims in the purest of water, quacking happily.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 83,
+        "Entity": "Duck",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Duck_%28NPC%29.png",
+        "Stars": 2,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "A white feathered waterfowl that swims in pure water and basks in the warm sun.",
+        "Loot": [],
+        "ImgW": 32,
+        "ImgH": 28,
+        "hardmode": false
+    },
+    {
+        "Id": 84,
+        "Entity": "Turtle",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e4/Turtle_%28NPC%29.png",
+        "Stars": 2,
+        "Filters": [
+            "Surface", "Daytime"
+        ],
+        "Description": "These slow, stoic creatures travel between lakes and dry land, carrying a hard shell on their backs for protection.",
+        "Loot": [],
+        "ImgW": 46,
+        "ImgH": 22,
+        "hardmode": false
+    },
+    {
+        "Id": 85,
+        "Entity": "Owl",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5c/Owl.png",
+        "Stars": 3,
+        "Filters": [
+            "Nighttime"
+        ],
+        "Description": "A large, wise predatory bird which hunts nocturnally from the tree tops.",
+        "Loot": [],
+        "ImgW": 26,
+        "ImgH": 34,
+        "hardmode": false
+    }
+]

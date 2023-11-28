@@ -1,0 +1,177 @@
+[
+    {
+        "Id": 4,
+        "Filter": "Surface",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/42/Bestiary_Surface.png",
+        "ImgW": 20,
+        "ImgH": 26
+    },
+    {
+        "Id": 5,
+        "Filter": "Daytime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/88/Bestiary_Daytime.png",
+        "ImgW": 24,
+        "ImgH": 24
+    },
+    {
+        "Id": 6,
+        "Filter": "Party",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Bestiary_Party.png",
+        "ImgW": 22,
+        "ImgH": 28
+    },
+    {
+        "Id": 7,
+        "Filter": "Windy Day",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/1a/Bestiary_Windy_Day.png",
+        "ImgW": 28,
+        "ImgH": 26
+    },
+    {
+        "Id": 8,
+        "Filter": "Rain",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/57/Bestiary_Rain.png",
+        "ImgW": 26,
+        "ImgH": 22
+    },
+    {
+        "Id": 9,
+        "Filter": "Nighttime",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Bestiary_Nighttime.png",
+        "ImgW": 24,
+        "ImgH": 22
+    },
+    {
+        "Id": 10,
+        "Filter": "Blood Moon",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/34/Bestiary_Blood_Moon.png",
+        "ImgW": 22,
+        "ImgH": 22
+    },
+    {
+        "Id": 11,
+        "Filter": "Graveyard",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Bestiary_Graveyard.png",
+        "ImgW": 22,
+        "ImgH": 22
+    },
+    {
+        "Id": 12,
+        "Filter": "Underground",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/79/Bestiary_Underground.png",
+        "ImgW": 24,
+        "ImgH": 18
+    },
+    {
+        "Id": 13,
+        "Filter": "Caverns",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/52/Bestiary_Caverns.png",
+        "ImgW": 26,
+        "ImgH": 24
+    },
+    {
+        "Id": 14,
+        "Filter": "Granite",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/21/Bestiary_Granite.png",
+        "ImgW": 20,
+        "ImgH": 26
+    },
+    {
+        "Id": 15,
+        "Filter": "Marble",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b2/Bestiary_Marble.png",
+        "ImgW": 20,
+        "ImgH": 26
+    },
+    {
+        "Id": 16,
+        "Filter": "Underground Mushroom",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/82/Bestiary_Underground_Mushroom.png",
+        "ImgW": 24,
+        "ImgH": 24
+    },
+    {
+        "Id": 17,
+        "Filter": "Spider Nest",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e0/Bestiary_Spider_Nest.png",
+        "ImgW": 28,
+        "ImgH": 24
+    },
+    {
+        "Id": 18,
+        "Filter": "Snow",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/fa/Bestiary_Snow.png",
+        "ImgW": 28,
+        "ImgH": 24
+    },
+    {
+        "Id": 19,
+        "Filter": "Underground Snow",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/52/Bestiary_Underground_Snow.png",
+        "ImgW": 26,
+        "ImgH": 26
+    },
+    {
+        "Id": 20,
+        "Filter": "Desert",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Bestiary_Desert.png",
+        "ImgW": 18,
+        "ImgH": 24
+    },
+    {
+        "Id": 21,
+        "Filter": "Underground Desert",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/4b/Bestiary_Underground_Desert.png",
+        "ImgW": 26,
+        "ImgH": 24
+    },
+    {
+        "Id": 23,
+        "Filter": "Ocean",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Bestiary_Ocean.png",
+        "ImgW": 16,
+        "ImgH": 24
+    },
+    {
+        "Id": 24,
+        "Filter": "The Jungle",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Bestiary_The_Jungle.png",
+        "ImgW": 24,
+        "ImgH": 26
+    },
+    {
+        "Id": 27,
+        "Filter": "The Dungeon",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/81/Bestiary_The_Dungeon.png",
+        "ImgW": 24,
+        "ImgH": 24
+    },
+    {
+        "Id": 40,
+        "Filter": "The Hallow",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b7/Bestiary_The_Hallow.png",
+        "ImgW": 28,
+        "ImgH": 28
+    },
+    {
+        "Id": 45,
+        "Filter": "Surface Mushroom",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Bestiary_Surface_Mushroom.png",
+        "ImgW": 20,
+        "ImgH": 26
+    },
+    {
+        "Id": 54,
+        "Filter": "Halloween",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Bestiary_Halloween.png",
+        "ImgW": 22,
+        "ImgH": 22
+    },
+    {
+        "Id": 55,
+        "Filter": "Christmas",
+        "Img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Bestiary_Christmas.png",
+        "ImgW": 20,
+        "ImgH": 24
+    }
+]
